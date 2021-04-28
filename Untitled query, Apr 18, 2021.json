@@ -1,0 +1,56 @@
+[
+  {
+    "movie_id": 1,
+    "movie_name": "12 Angry Men",
+    "released_year": 1957,
+    "rotten_tomatoes": 100
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "A Clockwork Orange",
+    "released_year": 1971,
+    "rotten_tomatoes": 86
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "Pother Pachali",
+    "released_year": 1955,
+    "rotten_tomatoes": 98
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Godfather",
+    "released_year": 1971,
+    "rotten_tomatoes": 97
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Harry Potter",
+    "released_year": 2002,
+    "rotten_tomatoes": 80
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Shutter Island",
+    "released_year": 2010,
+    "rotten_tomatoes": 68
+  },
+  {
+    "movie_id": 7,
+    "movie_name": "Gilbert Grape",
+    "released_year": 1993,
+    "rotten_tomatoes": 90
+  },
+  {
+    "movie_id": 8,
+    "movie_name": "LA Confidential",
+    "released_year": 1999,
+    "rotten_tomatoes": 99
+  },
+  {
+    "movie_id": 9,
+    "movie_name": "Memories of Murder",
+    "released_year": 2003,
+    "rotten_tomatoes": 94
+  }
+]
